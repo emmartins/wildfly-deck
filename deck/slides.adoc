@@ -1,6 +1,6 @@
 //= WildFly 8: rapid innovation, lightweight, modular application server
 = What's new in WildFly 8 ?
-Arun Gupta ; Red Hat; @arungupta
+Eduardo Martins; Red Hat; @emmartins
 include::attributes.adoc[]
 
 :experimental:
@@ -13,20 +13,21 @@ include::attributes.adoc[]
 :source-highlighter: coderay
 
 [.topic.source]
-== Arun Gupta
+== Eduardo Martins
 
 ====
-* Director, Developer Advocacy, Red Hat Inc.
-* O'Reilly and McGraw Hill author
-* Fitness freak
+* WildFly EE Core Dev Team, Red Hat Inc.
+* Naming/JNDI, EE Concurrency Utilities
+* Working remotely from Sesimbra, Portugal
+
 ====
 
 [NOTE ]
 [role="speaker"]
 ====
-* My name is Arun Gupta, and I drive community engagement efforts for JBoss at Red Hat
-* I've authored couple of O'Reilly best selling books and another one by McGraw Hill
-* I'm a workout nut as my kids call me and a runner
+* My name is Eduardo Martins, and currently I’m a WildFly core developer at Red Hat
+* Currently I lead Naming module development, i.e. everything wrt JNDI & @Resource Injection, and I’m also a major contributor to the EE module development, for instance responsible for the EE Concurrency Utilities that we will talk about later.
+* I live by the sea since I can remember, so naturally I’m bound to it, and went through every imaginable sea activity, but in the last 15 years it’s mostly about surfing. 
 ====
 
 [.topic.source]
@@ -724,8 +725,8 @@ NOTE: Slides generated with Asciidoctor and DZSlides backend
 NOTE: Original slide template - Dan Allen & Sarah White
 
 [.topic.ending, hrole="name"]
-== Arun Gupta
+== Eduardo Martins
 
 [.footer]
-[icon-twitter]'{zwsp}' @arungupta
+[icon-twitter]'{zwsp}' @emmartins
 
